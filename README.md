@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Tahmid Chowdhury  
 
-🎓 **Undergraduate Computer Science Student** passionate about building practical and innovative tech solutions.  
-💻 Exploring the intersections of **AI, Machine Learning, Cybersecurity, and Web Development**.  
-🚀 Always learning, creating, and experimenting with new technologies to grow as a developer.  
+an undergraduate Computer Science student passionate about AI, Machine Learning, Data Analysis, and Cybersecurity. I enjoy developing intelligent systems, analyzing data for insights, and exploring security concepts such as network defense, encryption, and ethical hacking. My technical skills include Python, C, Linux, MySQL, and React, and I’m driven by the goal of combining AI and cybersecurity to build smarter and safer digital solutions.  
 
 ---
 
