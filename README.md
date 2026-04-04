@@ -1,48 +1,53 @@
-# 👋 Hi, I'm Tahmid Chowdhury  
+# Hi, I'm Tahmid 👋
 
-an undergraduate Computer Science student passionate about AI, Machine Learning, Data Analysis, and Cybersecurity. I enjoy developing intelligent systems, analyzing data for insights, and exploring security concepts such as network defense, encryption, and ethical hacking. My technical skills include Python, C, Linux, MySQL, and React, and I’m driven by the goal of combining AI and cybersecurity to build smarter and safer digital solutions.  
-
----
-
-## 🧠 What I Do  
-- 🤖 **AI & ML:** Model training using **Neural Networks** and **Decision Trees**  
-- 🧩 **Data Analysis:** Data preprocessing, model evaluation, and insight generation  
-- 🌐 **Web Development:** MERN stack (React, Express, Node, MongoDB)  
-- 💾 **System Development:** Projects in **C**, **Python**, and **Linux/Ubuntu**  
-- 🔐 **Cybersecurity & Network Security:** Exploring system vulnerabilities and defense mechanisms  
-- 🎮 **Computer Graphics:** 3D projects using **OpenGL**  
+CS student @ BRAC University · Building full-stack apps, training ML models, and diving deep into systems & security.  
+Currently exploring **networking** and **cybersecurity** — from TCP/IP fundamentals to ethical hacking.
 
 ---
 
-## 🛠️ Tech Stack  
+## About me
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Web & Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **AI / ML**
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F61?style=for-the-badge)
-![Decision Tree](https://img.shields.io/badge/Decision%20Tree-4CAF50?style=for-the-badge)
-
-### **Operating System**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Tools**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+- 🎓 Studying Computer Science & Engineering
+- 🔐 Interested in cybersecurity, network security & ethical hacking
+- 🤖 Built NLP models for Bengali text classification using BanglaBERT & Bi-LSTM
+- 🌱 Currently learning: Wireshark · Nmap · Networking fundamentals · CompTIA Security+
+- 🇧🇩 Based in Dhaka, Bangladesh
 
 ---
 
-## 🌟 Featured Projects  
-- 🚗 **3D Car Parking Simulation** (OpenGL)  
-- 🚙 **Car Rental System Website** (PHP, MySQL, HTML, CSS)  
-- 💽 **Virtual File System (VSFS)** (Operating Systems Project)  
-- 🧠 **AI Model Training** using Neural Networks and Decision Trees 
+## Technical skills
+
+| Area | Skills |
+|---|---|
+| Languages | Python · JavaScript · TypeScript · C |
+| Web | React · Node.js · Express · MongoDB · Supabase |
+| AI / ML | TensorFlow · Keras · scikit-learn · HuggingFace |
+| Systems | C · Linux · File Systems · OpenGL |
+| Tools | Git · Docker · Vercel · Google Colab |
+| Security (learning) | Wireshark · Nmap · Kali Linux · TCP/IP |
+
+---
+
+## Featured projects
+
+**🐄 AgroOx AI — Smart Cattle Farming Platform**  
+AI-powered platform for cattle breed detection, disease diagnosis & nutrition planning. Live on Vercel with bilingual English/Bangla support.  
+`React` `TypeScript` `Supabase` `Tailwind CSS` `Vercel`
+
+**🧠 Bengali Text Classification — NLP Research**  
+Compared Bi-LSTM, Bi-GRU, and BanglaBERT for classifying Bengali text across Theme, Sentiment & Toxicity using FastText embeddings.  
+`Python` `TensorFlow` `HuggingFace` `BanglaBERT` `NLP`
+
+**🌐 UniVerse — Academic Social Platform**  
+Full-stack social networking platform for university students with forums, messaging, resource sharing & event management. Containerized with Docker.  
+`Node.js` `Express` `MongoDB` `Docker` `EJS`
+
+**🖥️ VSFS — Very Simple File System**  
+Unix-like file system implemented from scratch in C with inode-based metadata, block-level disk simulation & full file CRUD operations on Linux.  
+`C` `Linux` `OS Concepts` `File Systems`
+
+---
+
+## Currently exploring
+
+`Network Security` `Ethical Hacking` `Packet Analysis` `CompTIA Security+` `CTF Challenges`
