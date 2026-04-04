@@ -26,28 +26,3 @@ Currently exploring **networking** and **cybersecurity** — from TCP/IP fundame
 | Tools | Git · Docker · Vercel · Google Colab |
 | Security (learning) | Wireshark · Nmap · Kali Linux · TCP/IP |
 
----
-
-## Featured projects
-
-**🐄 AgroOx AI — Smart Cattle Farming Platform**  
-AI-powered platform for cattle breed detection, disease diagnosis & nutrition planning. Live on Vercel with bilingual English/Bangla support.  
-`React` `TypeScript` `Supabase` `Tailwind CSS` `Vercel`
-
-**🧠 Bengali Text Classification — NLP Research**  
-Compared Bi-LSTM, Bi-GRU, and BanglaBERT for classifying Bengali text across Theme, Sentiment & Toxicity using FastText embeddings.  
-`Python` `TensorFlow` `HuggingFace` `BanglaBERT` `NLP`
-
-**🌐 UniVerse — Academic Social Platform**  
-Full-stack social networking platform for university students with forums, messaging, resource sharing & event management. Containerized with Docker.  
-`Node.js` `Express` `MongoDB` `Docker` `EJS`
-
-**🖥️ VSFS — Very Simple File System**  
-Unix-like file system implemented from scratch in C with inode-based metadata, block-level disk simulation & full file CRUD operations on Linux.  
-`C` `Linux` `OS Concepts` `File Systems`
-
----
-
-## Currently exploring
-
-`Network Security` `Ethical Hacking` `Packet Analysis` `CompTIA Security+` `CTF Challenges`
